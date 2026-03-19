@@ -1,4 +1,5 @@
-</> Markdown src/05_cdss_simulation.py
+</> Markdown 
+src/05_cdss_simulation.py
 
 
 ---
@@ -6,7 +7,7 @@
 ## 📂 Estructura del proyecto
 
 
-</> Markdown TFM/
+TFM/
 │
 ├── src/
 │ ├── 03_preprocessing.py
