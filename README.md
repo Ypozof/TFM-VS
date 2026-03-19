@@ -142,15 +142,6 @@ Resultado:
 
 ---
 
-## 🔮 Futuro
-
-* Validación clínica
-* Integración hospitalaria
-* Mejora recall
-* XAI
-
----
-
 ## 👩‍💻 Autor
 
 Yaiza Pozo Fernández
