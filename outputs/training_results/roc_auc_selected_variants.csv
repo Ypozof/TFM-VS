@@ -1,0 +1,6 @@
+Modelo,ROC-AUC Test
+Logistic Regression,0.6995
+Logistic Regression (class_weight),0.6985
+Logistic Regression (SMOTE),0.697
+Gradient Boosting,0.6704
+Gradient Boosting (SMOTE),0.6535

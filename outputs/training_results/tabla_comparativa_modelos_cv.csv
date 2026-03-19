@@ -1,0 +1,17 @@
+Modelo,Accuracy CV,Precisión CV,Recall CV,F1 CV,F1-macro CV,ROC-AUC CV
+Logistic Regression (class_weight),67.37,26.89,66.41,38.26,58.04,73.11
+Logistic Regression (SMOTE),66.73,26.31,66.02,37.62,57.46,72.8
+Support Vector Machine (class_weight),70.03,27.21,57.86,36.99,58.66,70.07
+K-Nearest Neighbors (SMOTE),64.1,21.26,50.49,29.92,52.89,61.54
+Support Vector Machine (SMOTE),69.68,25.12,49.9,33.39,56.88,66.8
+Gradient Boosting (SMOTE),77.43,29.82,35.53,32.38,59.41,69.71
+Decision Tree (SMOTE),71.68,20.71,30.29,24.53,53.54,54.69
+Decision Tree,74.63,20.86,23.88,22.25,53.54,53.8
+Decision Tree (class_weight),75.99,22.34,23.69,22.95,54.36,54.52
+Random Forest (SMOTE),81.15,32.97,23.5,27.36,58.27,68.73
+K-Nearest Neighbors,84.01,40.81,11.07,17.33,54.24,62.45
+Gradient Boosting,84.81,49.36,10.68,17.52,54.57,71.17
+Logistic Regression,85.58,72.09,8.93,15.81,53.96,73.12
+Random Forest,85.25,59.34,8.74,15.16,53.54,70.37
+Random Forest (class_weight),84.9,49.46,3.69,6.82,49.3,70.4
+Support Vector Machine,84.9,50.0,1.75,3.36,47.58,62.38

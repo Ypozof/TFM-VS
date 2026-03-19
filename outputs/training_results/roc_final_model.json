@@ -1,0 +1,4 @@
+{
+    "modelo": "Logistic Regression (class_weight)",
+    "roc_auc_test": 0.699594
+}

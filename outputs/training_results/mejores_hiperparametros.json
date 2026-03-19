@@ -1,0 +1,8 @@
+{
+    "modelo": "Logistic Regression (class_weight)",
+    "best_params": {
+        "C": 0.01,
+        "solver": "liblinear"
+    },
+    "best_recall_cv": 0.685437
+}

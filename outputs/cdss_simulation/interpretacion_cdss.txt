@@ -1,0 +1,20 @@
+SIMULACIÓN INTERACTIVA DEL CDSS
+============================================================
+
+Probabilidad estimada de riesgo: 0.4427
+Predicción binaria: 1
+Clasificación final: Alto riesgo
+Umbral utilizado: 0.35
+
+Interpretación orientativa:
+El sistema clasifica al paciente como de alto riesgo cardiovascular. Este resultado sugiere la conveniencia de una valoración clínica prioritaria y de una vigilancia más estrecha. Debe interpretarse siempre como apoyo al juicio clínico, no como diagnóstico definitivo.
+
+Variables con mayor influencia positiva en la predicción:
+    Variable  Coeficiente
+         age     0.494689
+       sysBP     0.233621
+        male     0.206608
+  cigsPerDay     0.204922
+prevalentHyp     0.118599
+
+Aviso: esta simulación representa una posible implementación práctica del modelo como sistema de apoyo a la decisión clínica. No sustituye el juicio clínico profesional ni constituye una herramienta diagnóstica validada para uso real.

@@ -1,0 +1,17 @@
+variable,missing_count,missing_percentage
+glucose,388,9.16
+education,105,2.48
+BPMeds,53,1.25
+totChol,50,1.18
+cigsPerDay,29,0.68
+BMI,19,0.45
+heartRate,1,0.02
+male,0,0.0
+prevalentHyp,0,0.0
+prevalentStroke,0,0.0
+age,0,0.0
+currentSmoker,0,0.0
+diaBP,0,0.0
+sysBP,0,0.0
+diabetes,0,0.0
+TenYearCHD,0,0.0
